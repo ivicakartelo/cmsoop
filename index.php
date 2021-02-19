@@ -110,9 +110,6 @@ $(document).ready(function()
 });
 </script>
 
-<?php
-}
-    ?>
 
 <script>
   function AddComment(){
@@ -145,3 +142,6 @@ $(document).ready(function()
         });
     }
 </script>
+<?php
+}
+    ?>
